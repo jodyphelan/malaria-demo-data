@@ -79,7 +79,6 @@ https://conda.anaconda.org/bioconda/linux-64/bwa-meme-1.0.6-hdcf5f25_2.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/capnproto-0.9.1-ha19adfc_4.tar.bz2
 https://conda.anaconda.org/t/no-15126f85-4dce-4462-b48d-9bc580ca6641/conda-forge/linux-64/expat-2.5.0-hcb278e6_1.conda
 https://conda.anaconda.org/conda-forge/linux-64/gcc_impl_linux-64-13.2.0-h338b0a0_5.conda
-https://conda.anaconda.org/bioconda/linux-64/iqtree-2.2.6-h21ec9f0_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/jq-1.7.1-hd590300_0.conda
 https://conda.anaconda.org/conda-forge/linux-64/libbrotlidec-1.1.0-hd590300_1.conda
 https://conda.anaconda.org/conda-forge/linux-64/libbrotlienc-1.1.0-hd590300_1.conda
@@ -204,7 +203,6 @@ https://conda.anaconda.org/conda-forge/linux-64/pydantic-core-2.16.1-py310hcb563
 https://conda.anaconda.org/conda-forge/noarch/requests-2.31.0-pyhd8ed1ab_0.conda
 https://conda.anaconda.org/conda-forge/noarch/rich-13.7.0-pyhd8ed1ab_0.conda
 https://conda.anaconda.org/bioconda/linux-64/samtools-1.19.2-h50ea8bc_0.tar.bz2
-https://conda.anaconda.org/bioconda/linux-64/usher-0.6.3-hb389108_0.tar.bz2
 https://conda.anaconda.org/t/no-15126f85-4dce-4462-b48d-9bc580ca6641/conda-forge/linux-64/xorg-libxtst-1.2.3-h7f98852_1002.tar.bz2
 https://conda.anaconda.org/bioconda/linux-64/bcftools-1.19-h8b25389_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/contourpy-1.2.0-py310hd41b1e2_0.conda
